@@ -7,7 +7,7 @@ import hibernate.UtilitariosHibernate;
 
 public class Daogenerico<E> {
 
-	// Obtém um EntityManager do Hibernate - (texto adicionado pelo github)
+	// Obtém um EntityManager do Hibernate - (texto adicionado pelo github) - (Adicionado pelo Eclipse)
 	private EntityManager gerenciadorEntidades = UtilitariosHibernate.getEntityManager();
 	
 	// Métodos CRUD
